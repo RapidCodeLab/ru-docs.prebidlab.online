@@ -1,6 +1,6 @@
 ---
-title: Page layout
-description: An example of LibDoc's page layout.
+title: Введение
+description: 
 layout: libdoc/page
 ---
 * 
