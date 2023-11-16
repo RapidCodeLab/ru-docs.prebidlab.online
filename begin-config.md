@@ -1,10 +1,10 @@
 ---
-title: Начало работы
+title: Настройка
 description: 
 layout: libdoc/page
 
 category: Начало работы
-#order: 92
+order: 5 
 ---
 * 
 {:toc}
