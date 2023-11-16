@@ -174,10 +174,10 @@ sidebar:
             # category: Showcase # Add this this link into a category just like pages
         -   url:  # Local or remote URL
             title: <span class="i-discord u-mr-xxs"></span> Discord Chat # Link text
-            order: 1 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+            order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
         -   url:  # Local or remote URL
             title: <span class="i-telegram u-mr-xxs"></span> Telegram # Link text
-            order: 2 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+            order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
         # -   url: https://www.youtube.com/embed/iWowJBRMtpc # Local or remote URL
         #     title: Iframe mode example # Link text
         #     order: 100 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
