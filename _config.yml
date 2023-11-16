@@ -19,7 +19,7 @@ defaults:
       layout: libdoc/page
 kramdown:
     syntax_highlighter_opts:
-        disable: true
+        disable: false
 sass:
     style: compressed
 # exclude: ['/assets/libdoc/ajax/playground-settings.html']
