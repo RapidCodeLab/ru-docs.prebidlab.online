@@ -1,16 +1,13 @@
 ---
-title: Установка
+title: Начало работы
 description: 
 layout: libdoc/page
 
-#LibDoc specific below
 category: Начало работы
-order: 92
-# unlisted: true
-# iframe_mode: true
+#order: 92
 ---
 * 
 {:toc}
 
-
 ## Установка RapidPrebidServer
+
