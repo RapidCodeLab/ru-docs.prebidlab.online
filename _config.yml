@@ -370,7 +370,7 @@ prism:
         #- jq
         #- jsdoc
         #- js-extras
-        #- json
+        - json
         #- json5
         #- jsonp
         #- jsstacktrace
@@ -516,4 +516,4 @@ prism:
 
 # LIBDOC BACKLINK
 # Link powered by LibDoc - Uncomment to remove
-# disable_powered_by_link: true
+disable_powered_by_link: true
