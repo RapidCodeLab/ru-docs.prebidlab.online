@@ -1,5 +1,5 @@
 ---
-title: Как все устроено?
+title: Как это работает?
 description: 
 layout: libdoc/page
 
