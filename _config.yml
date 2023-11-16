@@ -170,14 +170,17 @@ sidebar:
     additional_links:
         -   url:  # Local or remote URL
             title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
-            order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+            order: 99 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+            category: Links
             # category: Showcase # Add this this link into a category just like pages
         -   url:  # Local or remote URL
             title: <span class="i-discord u-mr-xxs"></span> Discord Chat # Link text
-            order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+            order: 99 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+            category: Links
         -   url:  # Local or remote URL
             title: <span class="i-telegram u-mr-xxs"></span> Telegram # Link text
-            order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+            order: 99 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+            category: Links
         # -   url: https://www.youtube.com/embed/iWowJBRMtpc # Local or remote URL
         #     title: Iframe mode example # Link text
         #     order: 100 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
